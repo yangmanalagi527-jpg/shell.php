@@ -4335,7 +4335,9 @@ a.sizechart-link{
 }
 </script>
 
-
+</div>
+</div>
+</div>
 </section>
 <script>
     document.addEventListener("DOMContentLoaded", function () {

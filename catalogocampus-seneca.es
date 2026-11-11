@@ -655,19 +655,19 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "SLOT DEPOSIT 1000",
+          "name": "SLOT777",
           "item": "https://www.bigappleacademynj.org/5-ways-to-encourage-your-growing-preschoolers-to-follow-directions"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "LINK RTP GACOR",
+          "name": "SLOT GACOR",
           "item": "https://www.bigappleacademynj.org/5-ways-to-encourage-your-growing-preschoolers-to-follow-directions"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "BANDAR SLOT DEPO 1K RESMI TERPERCAYA"
+          "name": "SLOT ONLINE"
         }
       ]
     },
@@ -675,28 +675,49 @@
       "@type": "Product",
       "@id": "https://www.bigappleacademynj.org/5-ways-to-encourage-your-growing-preschoolers-to-follow-directions",
       "name": "SLOT DEPOSIT 1000 : Link RTP Gacor Bandar Slot Depo 1k Resmi Terpercaya",
-      "description": "SLOT DEPOSIT 1000 menghadirkan informasi seputar link RTP slot online, pilihan permainan dari berbagai provider, serta panduan mengenal bandar slot depo 1k. Temukan informasi akses platform, mekanisme permainan, dan referensi RTP untuk membantu pengguna memahami layanan hiburan digital secara lebih lengkap.",
-      "sku": "SD1000-RTP-2026",
+      "description": "Cari bandar slot depo 1k resmi terpercaya? Link RTP gacor slot deposit 1000 ini pas buat modal kecil dengan peluang menang besar dan proses cepat.",
+      "sku": "RJB-TT-2026",
       "brand": {
         "@type": "Brand",
-        "name": "SLOT DEPOSIT 1000"
+        "name": "SLOT777"
       },
       "image": [
+        "https://i.imgur.com/syjGih2.png",
         "https://i.imgur.com/syjGih2.png"
       ],
-      "category": "Hiburan Digital > Informasi Slot Online > SLOT DEPOSIT 1000",
+      "category": "Android Game < SLOT777 < Slot Online",
       "offers": {
         "@type": "Offer",
         "url": "https://www.bigappleacademynj.org/5-ways-to-encourage-your-growing-preschoolers-to-follow-directions",
         "priceCurrency": "USD",
-        "price": "0.00",
+        "price": "99.00",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition",
-        "seller": {
-          "@type": "Organization",
-          "name": "SLOT DEPOSIT 1000"
+        "seller": { "@type": "Organization", "name": "SLOT777" }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "897"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": { "@type": "Person", "name": "Alexus" },
+          "datePublished": "2026-02-11",
+          "reviewBody": "Bener bener rekomen banget ini link SLOT777, gw baru juga pertama kali main langsung di kasi surprise maxwin cuy, tanpa basa basi.",
+          "name": "SLOT777",
+          "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" }
+        },
+        {
+          "@type": "Review",
+          "author": { "@type": "Person", "name": "Amel" },
+          "datePublished": "2026-02-09",
+          "reviewBody": "Main slot online di SLOT777 seru banget menurut saya. Setiap gabut, pasti selalu buka slot gacor ini yang selalu menemani waktu kosong saya.",
+          "name": "Slot Online",
+          "reviewRating": { "@type": "Rating", "ratingValue": "4.7", "bestRating": "5" }
         }
-      }
+      ]
     }
   ]
 }
